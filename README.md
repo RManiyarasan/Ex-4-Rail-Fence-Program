@@ -1,8 +1,8 @@
 # Ex-4 Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
-## NAME: ASWIN K N
-## REG NO: 212224230027
+## NAME: MANIYARASAN R
+## REG NO: 212224040185
 # AIM :
 
 # To write a C program to implement the rail fence transposition technique.
